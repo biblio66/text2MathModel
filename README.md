@@ -40,3 +40,7 @@ solve it using any lp solver.
 Example: GLPK (GNU Linear Programming Kit)
 $ glpsol --lp problem.lp -o result
 ```
+
+<img width="640" height="480" alt="1" src="https://github.com/user-attachments/assets/147e5fd6-4915-46d8-9771-00f69dabdbb3" />
+<img width="640" height="480" alt="2" src="https://github.com/user-attachments/assets/53225290-5890-43d7-b8a0-2d3dd2ccbd97" />
+
